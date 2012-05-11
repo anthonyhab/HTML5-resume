@@ -1,0 +1,61 @@
+@import url("text.css");
+@import url("grid.css");
+@import url("reset.css");
+
+body {
+    background: #fff;
+	background: #ececee;
+    color: #123;
+    font-size: 12px;
+    height: auto;
+    padding: 20px 0;
+}
+
+.wrap {
+    background: #fff;
+}
+
+header {
+	margin-bottom:40px;
+}
+
+header h1 {
+	font-size: 60px;
+	float: left;
+	margin: 0;
+	font-weight:bold;
+}
+
+header address {
+	line-height:16px;
+	padding: 13px 0;
+	text-align: right;
+	font-family: Georgia;
+
+}
+
+section {
+
+}
+
+section h2 {
+	margin-top:0;
+	margin-bottom:10px;
+	font-weight:400;
+	color:#3f7fbf;
+}
+
+section p {
+	margin-top:0;
+}
+
+aside {
+	text-align:right;
+	margin-top: 13px;
+	padding-top: 25px;
+	border-top:6px solid #3f7fbf;
+}
+
+.year {
+	display:block;
+}
